@@ -1,6 +1,6 @@
 # 20250430test
 * 20250430に作ったプロジェクトテスト用repositoryです。
-  * 基本的にはMarkdownで書きます。たしかcommitするときもコメントはMarkdownで書いたような記憶があります。
+  * 基本的にはMarkdownで書きます。
   * Markdown記法のリンク
     * (https://help.docbase.io/posts/13697)
     * https://qiita.com/kamorits/items/6f342da395ad57468ae3
