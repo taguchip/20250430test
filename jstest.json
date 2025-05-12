@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": "E001",
+      "name": "山田太郎",
+      "department": "営業部",
+      "email": "taro.yamada@example.com",
+      "isActive": true
+    },
+    {
+      "id": "E002",
+      "name": "鈴木花子",
+      "department": "企画部",
+      "email": "hanako.suzuki@example.com",
+      "isActive": false
+    }
+  ]
+}
